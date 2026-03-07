@@ -1,7 +1,7 @@
 name: QuickShops
 version: ${project.version}
 description: Genesis Addon - Create fancy shops with minimal effort
-authors: [Black_ixx, MageMonkeyStudio]
-website: https://magemonkey.studio
+authors: [Black_ixx, VoidEdge]
+website: https://void.travja.dev
 main: studio.magemonkey.genesis.addon.quickshops.QuickShops
 depend: [Genesis]
